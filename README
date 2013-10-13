@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4746
+
+This script converts the guifg/guibg parameters of a colorscheme the
+equivalent cterm ones for 256-color terminals.
+
+It's a rewrite from Shawn Biddle's script that uses PHP:
+http://shawnbiddle.com/toCterm
